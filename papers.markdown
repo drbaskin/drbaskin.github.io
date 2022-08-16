@@ -19,6 +19,7 @@ permalink: /papers/
 <h4>Collaborators</h4>
   <ul class="paragraph-text">
     <li>Robert Booth</li>
+    <li><a href="https://https://www.math.purdue.edu/~kdatchev/">Kiril Datchev</a></li>		
     <li><a href="https://sites.google.com/site/jessegellredman/">Jesse
     Gell-Redman</a></li>
     <li><a href="http://www.csun.edu/~xiaolong/">Xiaolong Han</a></li>
