@@ -21,7 +21,10 @@ permalink: /organization/
     </ul>
     </p>
 
+    
+
     <div class="section-heading" id="conf-text"><h3>Conference organization</h3></div>
+    <p class="paragraph-text justify-text"> I am currently co-organizing (with Gregory Berkolaiko and Marlan Scully) <a href="https://sites.google.com/tamu.edu/fullingfest">FullingFest: A celebration of work of Stephen A. Fulling</a>, to be held October 14-15, 2022 at Texas A&M University.
     <p class="paragraph-text justify-text">
     I was also an organizer of the following conferences/workshops:
     <ul class="paragraph-text">
