@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-I am teaching MATH 622 (Differential Geometry I) in Fall 2022.  Here are the [lecture notes]({{ site.url }}/assets/pdf/dgnotes.pdf)
+I am teaching MATH 622 (Differential Geometry I) in Spring 2023.  Here are the [lecture notes]({{ site.url }}/assets/pdf/dgnotes.pdf)
 
 I am continuing to organize the graduate student writing groups;
 please contact me if you would like to join them.
