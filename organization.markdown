@@ -24,10 +24,11 @@ permalink: /organization/
     
 
     <div class="section-heading" id="conf-text"><h3>Conference organization</h3></div>
-    <p class="paragraph-text justify-text"> I am currently co-organizing (with Gregory Berkolaiko and Marlan Scully) <a href="https://sites.google.com/tamu.edu/fullingfest">FullingFest: A celebration of work of Stephen A. Fulling</a>, to be held October 14-15, 2022 at Texas A&M University.
+    <p class="paragraph-text justify-text"> I am currently co-organizing (with Gregory Berkolaiko, Andrew Comech, Peter Kuchment, Wencai Liu, Jonas L&uuml;hrmann, and Minh-Binh Tran) the 2023/2024 <a href = "http://comech.sdf.org/texamp-2024/">Texas Analysis and Mathematical Physics Symposium (TexAMP), to be held February 9-11, 2024.
     <p class="paragraph-text justify-text">
     I was also an organizer of the following conferences/workshops:
     <ul class="paragraph-text">
+    <li><a href="https://sites.google.com/tamu.edu/fullingfest">FullingFest: A celebration of work of Stephen A. Fulling</a> (with Gregory Berkolaiko and Marlan Scully), held in October 2022 at Texas A&amp;M University.
       <li>The 56th and 62nd meetings of the <a
     href="https://www.math.tamu.edu/~tgtc/archive/">Texas Geometry and
     Topology Conference</a> (with J.M. Landsberg and Igor Zelenko), held in 2016 and 2019 at Texas A&M University.</li>
