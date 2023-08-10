@@ -24,7 +24,7 @@ permalink: /organization/
     
 
     <div class="section-heading" id="conf-text"><h3>Conference organization</h3></div>
-    <p class="paragraph-text justify-text"> I am currently co-organizing (with Gregory Berkolaiko, Andrew Comech, Peter Kuchment, Wencai Liu, Jonas L&uuml;hrmann, and Minh-Binh Tran) the 2023/2024 <a href = "http://comech.sdf.org/texamp-2024/">Texas Analysis and Mathematical Physics Symposium (TexAMP), to be held February 9-11, 2024.
+    <p class="paragraph-text justify-text"> I am currently co-organizing (with Gregory Berkolaiko, Andrew Comech, Peter Kuchment, Wencai Liu, Jonas L&uuml;hrmann, and Minh-Binh Tran) the 2023/2024 <a href = "https://texamp.github.io">Texas Analysis and Mathematical Physics Symposium (TexAMP), to be held February 9-11, 2024.
     <p class="paragraph-text justify-text">
     I was also an organizer of the following conferences/workshops:
     <ul class="paragraph-text">
