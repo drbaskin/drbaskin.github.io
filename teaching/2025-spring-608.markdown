@@ -1,0 +1,20 @@
+---
+layout: page
+title: Math 608, Spring 2025
+permalink: /teaching/608/
+---
+
+### Course Information
+Time: MWF 9:10-10  
+Location: BLOC 123  
+Instructor: Dean Baskin  
+Office: BLOC 614B  
+Office hours: M 1:30-2:30, F 10-11  
+[Syllabus](/assets/pdf/2025-spring-608-syllabus.pdf)
+
+### Lecture topics
+* January 13: Definition of topology, countability and separation axioms, continuity.
+
+### Homework
+* [Homework 0](/assets/pdf/608/hw00.pdf), due Wednesday, January 15.
+* [Homework 1](/assets/pdf/608/hw01.pdf), due Wednesday, January 22.

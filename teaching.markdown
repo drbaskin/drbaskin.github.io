@@ -4,9 +4,9 @@ title: Teaching
 permalink: /teaching/
 ---
 
-I am currently teaching two honors sections of differential equations (MATH 308).  
+I am currently teaching Real Analysis II (MATH 608).  See the [Spring 2025 Math 608 website](608/) for details.
 
-I am not currently organizing the graduate student writing group because the graduate students have organized themselves.  Please let me know if you have questions about graduate student writing groups.
+I am currently also coordinating a graduate student writing group.
 
 In the past I have taught the following courses at Texas A&amp;M:
 <ul class="paragraph-text">
