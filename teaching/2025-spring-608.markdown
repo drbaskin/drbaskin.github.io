@@ -15,6 +15,7 @@ Office hours: M 1:30-2:30, F 10-11
 ### Lecture topics
 * January 13: Syllabus highlights.  Definition of topology, countability axioms.
 * January 15: Separability axioms.  Continuity.  Product topology.
+* January 17: Nets.  Statements of Urysohn Lemma and Tietze extension theorem.  Beginning of proof.  No office hours on Monday, January 20.
 
 ### Homework
 * [Homework 0](/assets/pdf/608/hw00.pdf), due Wednesday, January 15.
