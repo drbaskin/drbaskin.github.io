@@ -12,13 +12,16 @@ Office: BLOC 614B
 Office hours: M 1:30-2:30, F 10-11  
 [Syllabus](/assets/pdf/2025-spring-608-syllabus.pdf)
 
+### Announcements
+* I will hold additional office hour time on Tuesday, January 28 from 4pm to 4:45pm.
+
 ### Lecture topics
 * January 13: Syllabus highlights.  Definition of topology, countability axioms.
 * January 15: Separability axioms.  Continuity.  Product topology.
 * January 17: Nets.  Statements of Urysohn Lemma and Tietze extension theorem.  Beginning of proof.  No office hours on Monday, January 20.
 * January 22: Proof of Urysohn Lemma.  Compactness.
 * January 24: Locally compact Hausdorff spaces.  Statement of Tychonoff theorem.
-* January 27: Proof of Tychonoff theorem.  Arzela&ndash;Ascoli and proof.
+* January 27: Proof of Tychonoff theorem.  Arzela&ndash;Ascoli and proof.  
 
 ### Homework
 * [Homework 0](/assets/pdf/608/hw00.pdf), due Wednesday, January 15.
