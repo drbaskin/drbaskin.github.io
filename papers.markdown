@@ -4,39 +4,29 @@ title: Papers
 permalink: /papers/
 ---
 
-<h3>Preprints</h3>
+### Preprints
 
 {% bibliography --query @*[group=preprint] %}
 
-<h3>Published papers</h3>
+### Published papers
 
 {% bibliography --query @*[group=journal] %}
 
-<h3>Expository papers</h3>
+### Expository papers
 
 {% bibliography --query @*[group=expository] %}
 
-<h4>Collaborators</h4>
-  <ul class="paragraph-text">
-    <li>Robert Booth</li>
-    <li><a href="https://https://www.math.purdue.edu/~kdatchev/">Kiril Datchev</a></li>		
-    <li><a href="https://sites.google.com/site/jessegellredman/">Jesse
-    Gell-Redman</a></li>
-    <li><a href="http://www.csun.edu/~xiaolong/">Xiaolong Han</a></li>
-    <li><a href="http://www.unc.edu/~marzuola/">Jeremy
-    Marzuola</a></li>
-    <li><a href="http://math.stanford.edu/~mazzeo/">Rafe
-    Mazzeo</a></li>
-    <li><a href="http://www.math.purdue.edu/~sabarre/">Ant&ocirc;nio
-    S&aacute; Barreto</a></li>
-    <li><a href="http://people.bath.ac.uk/eas25/">Euan Spence</a></li>
-    <li><a href="http://math.stanford.edu/~andras/">Andr&aacute;s
-    Vasy</a></li>
-    <li><a
-  href="http://www.math.sjtu.edu.cn/faculty/show.php?id=128">Fang
-    Wang</a></li>
-    <li><a href="http://math.northwestern.edu/~jwunsch/">Jared
-    Wunsch</a></li>
-    <li><a
-  href="https://sites.math.northwestern.edu/~mxyang/">Mengxuan Yang</a></li>
-  </ul>
+#### Collaborators
+* Robert Booth
+* [Kiril Datchev](https://https://www.math.purdue.edu/~kdatchev/)
+* [Moritz Doll](https://mcdoll.github.io)
+* [Jesse Gell-Redman](https://sites.google.com/site/jessegellredman/)
+* [Xiaolong Han](https://www.csun.edu/~xiaolong/)
+* [Jeremy Marzuola](https://marzuola.web.unc.edu)
+* [Rafe Mazzeo](https://mathematics.stanford.edu/people/rafe-mazzeo)
+* [Ant&ocirc;nio S&aacute; Barreto](https://www.math.purdue.edu/~sabarre/)
+* [Euan Spence](https://people.bath.ac.uk/eas25/)
+* [Andr&aacute;s Vasy](https://math.stanford.edu/~andras/)
+* [Fang Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIfpg)
+* [Jared Wunsch](https://sites.math.northwestern.edu/~jwunsch/)
+* [Mengxuan Yang](https://sites.google.com/view/mxyang)
