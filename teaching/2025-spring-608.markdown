@@ -24,6 +24,7 @@ Office hours: M 1:30-2:30, F 10-11
 * January 24: Locally compact Hausdorff spaces.  Statement of Tychonoff theorem.
 * January 27: Proof of Tychonoff theorem.  Arzela&ndash;Ascoli and proof.  
 * January 29: Locally compact version of Arzela&ndash;Ascoli, statement and beginning of proof of Stone&ndash;Weierstrass.
+* January 31: Proof of Stone&ndash;Weierstrass.
 
 ### Homework
 * [Homework 0](/assets/pdf/608/hw00.pdf), due Wednesday, January 15.
