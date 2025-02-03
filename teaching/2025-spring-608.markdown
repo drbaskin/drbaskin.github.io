@@ -13,6 +13,7 @@ Office hours: M 1:30-2:30, F 10-11
 [Syllabus](/assets/pdf/2025-spring-608-syllabus.pdf)
 
 ### Announcements
+* There was an error in the first problem of homework 3; compactness should be countable compactness.  It has been changed online.
 * I am open to moving my Monday office hours to a different time on Monday (within constraints of my schedule).  If they currently do not work for you, please let me know times that do work for you on Mondays.
 * I will hold additional office hour time on Tuesday, January 28 from 4pm to 4:45pm.
 
@@ -25,6 +26,7 @@ Office hours: M 1:30-2:30, F 10-11
 * January 27: Proof of Tychonoff theorem.  Arzela&ndash;Ascoli and proof.  
 * January 29: Locally compact version of Arzela&ndash;Ascoli, statement and beginning of proof of Stone&ndash;Weierstrass.
 * January 31: Proof of Stone&ndash;Weierstrass.
+* February 3: End of Stone&ndash;Weierstrass, definition of normed vector space and Banach space.
 
 ### Homework
 * [Homework 0](/assets/pdf/608/hw00.pdf), due Wednesday, January 15.
