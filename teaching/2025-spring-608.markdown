@@ -13,7 +13,7 @@ Office hours: M 1:30-2:30, F 10-11
 [Syllabus](/assets/pdf/2025-spring-608-syllabus.pdf)
 
 ### Announcements
-* There was an error in the first problem of homework 3; compactness should be countable compactness.  It has been changed online.
+* There was an error in the first problem of homework 3; compactness should be countable compactness.  Another error was in problem 2(b): the word compact was missing.  Both have been changed online.
 * I am open to moving my Monday office hours to a different time on Monday (within constraints of my schedule).  If they currently do not work for you, please let me know times that do work for you on Mondays.
 * I will hold additional office hour time on Tuesday, January 28 from 4pm to 4:45pm.
 
