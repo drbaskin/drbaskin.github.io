@@ -13,6 +13,7 @@ Office hours: M 1:30-2:30, F 10-11
 [Syllabus](/assets/pdf/2025-spring-608-syllabus.pdf)
 
 ### Announcements
+* Office hours on Friday, February 7 and Monday, February 10 will not be held as planned.  Instead, I will hold office hours 11-12 on Thursday, February 6 and 1:30-2:30 on Tuesday, February 11.
 * There was an error in the first problem of homework 3; compactness should be countable compactness.  Another error was in problem 2(b): the word compact was missing.  Both have been changed online.
 * I am open to moving my Monday office hours to a different time on Monday (within constraints of my schedule).  If they currently do not work for you, please let me know times that do work for you on Mondays.
 * I will hold additional office hour time on Tuesday, January 28 from 4pm to 4:45pm.
@@ -27,9 +28,11 @@ Office hours: M 1:30-2:30, F 10-11
 * January 29: Locally compact version of Arzela&ndash;Ascoli, statement and beginning of proof of Stone&ndash;Weierstrass.
 * January 31: Proof of Stone&ndash;Weierstrass.
 * February 3: End of Stone&ndash;Weierstrass, definition of normed vector space and Banach space.
+* February 5: Examples of Banach spaces, bounded linear between normed spaces.
 
 ### Homework
 * [Homework 0](/assets/pdf/608/hw00.pdf), due Wednesday, January 15.
 * [Homework 1](/assets/pdf/608/hw01.pdf), due Wednesday, January 22.
 * [Homework 2](/assets/pdf/608/hw02.pdf), due Wednesday, January 29.
 * [Homework 3](/assets/pdf/608/hw03.pdf), due Wednesday, February 5.
+* [Homework 4](/assets/pdf/608/hw04.pdf), due Wednesday, February 12.
