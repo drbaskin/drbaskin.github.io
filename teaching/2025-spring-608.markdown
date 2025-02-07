@@ -29,6 +29,7 @@ Office hours: M 1:30-2:30, F 10-11
 * January 31: Proof of Stone&ndash;Weierstrass.
 * February 3: End of Stone&ndash;Weierstrass, definition of normed vector space and Banach space.
 * February 5: Examples of Banach spaces, bounded linear between normed spaces.
+* February 7: Bounded linear functionals, Hahn&ndash;Banach (real version).
 
 ### Homework
 * [Homework 0](/assets/pdf/608/hw00.pdf), due Wednesday, January 15.
