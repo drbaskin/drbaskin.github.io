@@ -31,6 +31,8 @@ Office hours: M 1:30-2:30, F 10-11
 * February 3: End of Stone&ndash;Weierstrass, definition of normed vector space and Banach space.
 * February 5: Examples of Banach spaces, bounded linear between normed spaces.
 * February 7: Bounded linear functionals, Hahn&ndash;Banach (real version).
+* February 10: Hahn&ndash;Banach (complex version), consequences.
+* February 12: More consequences of Hahn&ndash;Banach, Baire category statement.
 
 ### Homework
 * [Homework 0](/assets/pdf/608/hw00.pdf), due Wednesday, January 15.
@@ -38,3 +40,4 @@ Office hours: M 1:30-2:30, F 10-11
 * [Homework 2](/assets/pdf/608/hw02.pdf), due Wednesday, January 29.
 * [Homework 3](/assets/pdf/608/hw03.pdf), due Wednesday, February 5.
 * [Homework 4](/assets/pdf/608/hw04.pdf), due Wednesday, February 12.
+* [Homework 5](/assets/pdf/608/hw05.pdf), not to be turned in.
