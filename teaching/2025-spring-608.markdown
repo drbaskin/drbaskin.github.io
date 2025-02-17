@@ -34,6 +34,7 @@ Office hours: M 1:30-2:30, F 10-11
 * February 10: Hahn&ndash;Banach (complex version), consequences.
 * February 12: More consequences of Hahn&ndash;Banach, Baire category statement.
 * February 14: Baire category theorem, Open mapping theorem.
+* February 17: Closed graph theorem, principle of uniform boundedness.
 
 ### Homework
 * [Homework 0](/assets/pdf/608/hw00.pdf), due Wednesday, January 15.
