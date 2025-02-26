@@ -37,6 +37,8 @@ Office hours: M 1:30-2:30, F 10-11
 * February 17: Closed graph theorem, principle of uniform boundedness.
 * February 19: Exam.
 * February 21: Interesting subclasses of operators, including compact operators.
+* February 24: Topological vector spaces.
+* February 26: Locally convex topological vector spaces, Frechet spaces.
 
 ### Homework
 * [Homework 0](/assets/pdf/608/hw00.pdf), due Wednesday, January 15.
@@ -46,3 +48,4 @@ Office hours: M 1:30-2:30, F 10-11
 * [Homework 4](/assets/pdf/608/hw04.pdf), due Wednesday, February 12.
 * [Homework 5](/assets/pdf/608/hw05.pdf), not to be turned in.
 * [Homework 6](/assets/pdf/608/hw06.pdf), due Wednesday, February 26.
+* [Homework 7](/assets/pdf/608/hw07.pdf), due Wednesday, March 5.
