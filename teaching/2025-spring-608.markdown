@@ -44,6 +44,9 @@ Office hours: M 1:30-2:30, F 10-11
 * March 5: Hilbert spaces.
 * March 7: Hilbert spaces.
 * March 17: Hilbert spaces, separation by hyperplanes.
+* March 19: Separation by hyperplanes.
+* March 21: Separation by hyperplanes.
+* March 24: Kakutani's theorem, Lp spaces.
 
 ### Homework
 * [Homework 0](/assets/pdf/608/hw00.pdf), due Wednesday, January 15.
