@@ -49,6 +49,8 @@ Office hours: M 1:30-2:30, F 10-11
 * March 24: Kakutani's theorem, Lp spaces.
 * March 28: Lp spaces.
 * March 31: Lp spaces.
+* April 2: Lp spaces
+* April 4: The dual of Lp.
 
 ### Homework
 * [Homework 0](/assets/pdf/608/hw00.pdf), due Wednesday, January 15.
@@ -62,3 +64,4 @@ Office hours: M 1:30-2:30, F 10-11
 * [Homework 8](/assets/pdf/608/hw08.pdf), due Wednesday, March 19.
 * [Homework 9](/assets/pdf/608/hw09.pdf), not to be turned in.
 * [Homework 10](/assets/pdf/608/hw10.pdf), due Wednesday, April 2.
+* [Homework 11](/assets/pdf/608/hw11.pdf), due Wednesday, April 9.
