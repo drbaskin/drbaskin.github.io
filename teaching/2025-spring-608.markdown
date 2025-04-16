@@ -53,6 +53,9 @@ Office hours: M 1:30-2:30, F 10-11
 * April 4: The dual of Lp.
 * April 7: Chebyshev inequality, Schur's test.
 * April 9: Riesz--Thorin interpolation.
+* April 11: Riesz--Thorin interpolation
+* April 14: Riesz representation.
+* April 16: Riesz representation.
 
 ### Homework
 * [Homework 0](/assets/pdf/608/hw00.pdf), due Wednesday, January 15.
@@ -68,3 +71,4 @@ Office hours: M 1:30-2:30, F 10-11
 * [Homework 10](/assets/pdf/608/hw10.pdf), due Wednesday, April 2.
 * [Homework 11](/assets/pdf/608/hw11.pdf), due Wednesday, April 9.
 * [Homework 12](/assets/pdf/608/hw12.pdf), due Wednesday, April 16.
+* [Homework 13](/assets/pdf/608/hw13.pdf), due Wednesday, April 23.
