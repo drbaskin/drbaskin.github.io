@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-I am currently teaching Real Analysis II (MATH 608).  See the [Spring 2025 Math 608 website](608/) for details.
+In Fall 2025, I will teach MATH 460 (Tensors and general relativity) and MATH 663 (Topics in semiclassical analysis).
 
 I am currently also coordinating a graduate student writing group.  It meets Tuesdays 9-11 in Blocker 624.
 
@@ -17,6 +17,7 @@ In the past I have taught the following courses at Texas A&amp;M:
 * Math 323 (Linear Algebra, Fall 2017)</li>
 * Math 460 (General Relativity, Fall 2015, Fall 2021, Fall 2023)</li>
 * Math 470 (Communications and Cryptography, Fall 2022)</li>
+* Math 608 (Real Analysis II, Spring 2025)
 * Math 622 (Differential Geometry I, Spring 2017, Spring 2023)</li>
 * Math 623 (Differential Geometry II, Fall 2017, Fall 2023)</li>
 * Math 689 (A graduate topics course on microlocal analysis, Fall 2015)</li>
