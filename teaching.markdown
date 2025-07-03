@@ -6,7 +6,7 @@ permalink: /teaching/
 
 In Fall 2025, I will teach MATH 460 (Tensors and general relativity) and MATH 663 (Topics in semiclassical analysis).
 
-I am currently also coordinating a graduate student writing group.  It meets Tuesdays 9-11 in Blocker 624.
+Graduate student writing groups will return in the fall.  
 
 In the past I have taught the following courses at Texas A&amp;M:  
 * Math 151H (Engineering Calculus I, Honors, Fall 2018)</li>
