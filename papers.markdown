@@ -28,5 +28,6 @@ permalink: /papers/
 * [Euan Spence](https://people.bath.ac.uk/eas25/)
 * [Andr&aacute;s Vasy](https://math.stanford.edu/~andras/)
 * [Fang Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIfpg)
+* [Micha&#322; Wrochna](https://webspace.science.uu.nl/~wroch001/)
 * [Jared Wunsch](https://sites.math.northwestern.edu/~jwunsch/)
 * [Mengxuan Yang](https://sites.google.com/view/mxyang)
