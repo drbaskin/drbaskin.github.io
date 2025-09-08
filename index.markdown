@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-Associate Professor<br>
+Professor<br>
 Department of Mathematics<br>
 Texas A&M University<br>
 Office: Blocker 614B<br>
