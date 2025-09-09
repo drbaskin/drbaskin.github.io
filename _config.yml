@@ -21,7 +21,7 @@
 title: Dean R. Baskin
 email: dbaskin@math.tamu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Associate Professor, Department of Mathematics, Texas A&M University.  
+  Professor, Department of Mathematics, Texas A&M University.  
   Office: Blocker 614B.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
