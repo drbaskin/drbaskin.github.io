@@ -4,6 +4,8 @@ title: Papers
 permalink: /papers/
 ---
 
+For accessibility reasons, the locally hosted documents here are not updated and are for archive purposes only.  Going forward, only arXiv and journal links will be provided unless I can provide an accessible electronic version.
+
 ### Preprints
 
 {% bibliography --query @*[group=preprint] %}

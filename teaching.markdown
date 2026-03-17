@@ -4,9 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-In Fall 2025, I am teaching MATH 460 (Tensors and general relativity) and MATH 663 (Topics in semiclassical analysis).
-
-Graduate student writing groups will return beginning September 2.
+In spring 2026, I am teaching MATH 612 (PDE II).  Graduate student writing groups meet on Tuesdays at 2pm.
 
 In the past I have taught the following courses at Texas A&amp;M:  
 * Math 151H (Engineering Calculus I, Honors, Fall 2018)</li>
@@ -15,10 +13,11 @@ In the past I have taught the following courses at Texas A&amp;M:
 * Math 304 (Linear Algebra, Spring 2015)</li>
 * Math 308 (Differential Equations, Fall 2015, Spring 2024, Fall 2025)</li>
 * Math 323 (Linear Algebra, Fall 2017)</li>
-* Math 460 (General Relativity, Fall 2015, Fall 2021, Fall 2023)</li>
+* Math 460 (General Relativity, Fall 2015, Fall 2021, Fall 2023, Fall 2025)</li>
 * Math 470 (Communications and Cryptography, Fall 2022)</li>
 * Math 608 (Real Analysis II, Spring 2025)
 * Math 622 (Differential Geometry I, Spring 2017, Spring 2023)</li>
 * Math 623 (Differential Geometry II, Fall 2017, Fall 2023)</li>
+* Math 663 (A graduate topics course in semiclassical analysis, Fall 2025)</li>
 * Math 689 (A graduate topics course on microlocal analysis, Fall 2015)</li>
 

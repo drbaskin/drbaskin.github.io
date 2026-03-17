@@ -10,7 +10,7 @@ Northwestern University.  I received my Ph.D from Stanford University
 in 2010.  I was a student of Rafe Mazzeo and Andr&aacute;s Vasy.  
 
 I can be reached at dbaskin 'at' math.tamu.edu.  If you are inquiring
-about a course I am teaching, please contact mem instead at dbaskin
+about a course I am teaching, please contact me instead at dbaskin
 'at' tamu.edu.
 
 My research is in partial differential equations generally and in
@@ -22,6 +22,8 @@ If you are a student interested in working with me, you should take
 the real analysis qualifying exam (the complex analysis qualifying
 exam is OK, too, but the real analysis exam is preferable).  For the
 other qualifier, you should likely take the geometry/topology exam, as
-much of the analysis I do takes place on manifolds.
+much of the analysis I do takes place on manifolds.  For courses, you
+should definitely take the first semester of complex analysis as well
+as both semesters of real analysis.
 
 
