@@ -6,7 +6,7 @@ tags: [2026Fall]
 excerpt: 'Andrew Comech'
 ---
 
-# Andrew Comech, TAMU
+Andrew Comech, TAMU
 
 *Title:* Complete characterization of linear stability for nonlinear Dirac equation in 1D
 
