@@ -1,6 +1,9 @@
 ---
 layout: calendar
 title: Complete characterization of linear stability for nonlinear Dirac equation in 1D
+date: 2026-09-24 16:00:00
+tags: [2026Fall]
+excerpt: 'Andrew Comech'
 ---
 
 # Andrew Comech, TAMU
