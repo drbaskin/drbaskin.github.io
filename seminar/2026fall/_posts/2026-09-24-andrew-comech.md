@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: calendar
 title: Complete characterization of linear stability for nonlinear Dirac equation in 1D
 ---
 

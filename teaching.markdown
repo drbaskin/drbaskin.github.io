@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-In spring 2026, I am teaching MATH 612 (PDE II).  Graduate student writing groups meet on Tuesdays at 2pm.
+I am currently on faculty development leave.
 
 In the past I have taught the following courses at Texas A&amp;M:  
 * Math 151H (Engineering Calculus I, Honors, Fall 2018)</li>
@@ -16,6 +16,7 @@ In the past I have taught the following courses at Texas A&amp;M:
 * Math 460 (General Relativity, Fall 2015, Fall 2021, Fall 2023, Fall 2025)</li>
 * Math 470 (Communications and Cryptography, Fall 2022)</li>
 * Math 608 (Real Analysis II, Spring 2025)
+* Math 612 (PDE II, Spring 2026)
 * Math 622 (Differential Geometry I, Spring 2017, Spring 2023)</li>
 * Math 623 (Differential Geometry II, Fall 2017, Fall 2023)</li>
 * Math 663 (A graduate topics course in semiclassical analysis, Fall 2025)</li>

@@ -5,8 +5,8 @@ permalink: /organization/
 ---
 
 ### Seminar organization
-* I am organizing a learning seminar with Andrew Comech.  It meets Thursdays, 4-5 in Blocker 302.
-* I am also an occasional orgznizer and regular participant in the Mathematical Physics, Harmonic Analysis, and Differential Equations seminar.  [Link to schedule](https://www.math.tamu.edu/seminars/harmonic)
+* I am organizing a learning seminar with Andrew Comech.  It meets Thursdays, 4-5 in Blocker 302.  [Link to schedule]({{ site.url}}/seminar/)
+* I am also an occasional orgznizer and regular participant in the Mathematical Physics, Harmonic Analysis, and Differential Equations seminar.  [Link to schedule](https://sites.google.com/view/mpha-seminar/home)
 
     
 ### Conference Organization
