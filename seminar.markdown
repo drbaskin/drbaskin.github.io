@@ -4,7 +4,7 @@ title: Seminar calendar
 permalink: /seminar/
 ---
 
-In Fall 2026, the seminar meets in Blocker 302.
+In Fall 2026, the seminar meets in Blocker 302 on Thursdays at 4pm.
 
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
