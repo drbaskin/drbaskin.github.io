@@ -12,7 +12,7 @@ In Fall 2026, the seminar meets in Blocker 302.
   <h3>{{ tag[0] }}</h3>
   <ul>
     {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li>{{ post.date | date_to_string }}: <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
