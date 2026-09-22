@@ -39,7 +39,8 @@ header_pages:
   - papers.markdown
   - teaching.markdown
   - organization.markdown
-
+  - seminar.markdown
+  
 scholar:
   style: apa
   bibliography_template: bib
