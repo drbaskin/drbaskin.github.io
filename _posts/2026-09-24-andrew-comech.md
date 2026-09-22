@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Andrew Comech, Complete characterization of linear stability for nonlinear Dirac equation in 1D
+title: September 24, 2026
 date: 2026-09-24 16:00:00
 tags: [2026Fall]
 excerpt: 'Andrew Comech'
